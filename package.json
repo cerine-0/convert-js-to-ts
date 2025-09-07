@@ -1,0 +1,13 @@
+{
+  "name": "convert-js-to-ts-main",
+  "version": "1.0.0",
+   "type": "module",
+  "description": "This is the starter code for our workshop.   Your task is to convert this simple Todo app from **JavaScript** to **TypeScript**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
